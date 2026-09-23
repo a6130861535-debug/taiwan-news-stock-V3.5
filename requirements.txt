@@ -3,6 +3,7 @@ pandas
 numpy
 requests
 feedparser
-openpyxl
-plotly
 yfinance
+openpyxl
+lxml
+beautifulsoup4
